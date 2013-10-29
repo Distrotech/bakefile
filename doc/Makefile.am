@@ -58,8 +58,8 @@ if BUILD_DOCS
 # DocBook file's contents are correct.
 noinst_DATA=html/index.html
 
-clean-local:
-	rm -rf tags *.fo html/*.html man *.log *.out *.pdf
+#clean-local:
+#	rm -rf tags *.fo html/*.html man *.log *.out *.pdf
 
 
 ## ---------------------------
